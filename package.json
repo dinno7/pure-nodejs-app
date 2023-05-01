@@ -1,0 +1,16 @@
+{
+	"name": "farm",
+	"version": "1.0.0",
+	"description": "The pure nodejs app -- FARM",
+	"main": "main.js",
+	"scripts": {
+		"dev": "nodemon -e html,js,json",
+		"start": "node main.js"
+	},
+	"keywords": [],
+	"author": "Dinno",
+	"license": "ISC",
+	"devDependencies": {
+		"nodemon": "^2.0.22"
+	}
+}
